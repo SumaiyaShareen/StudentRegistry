@@ -1,0 +1,10 @@
+.mat-toolbar.mat-primary {
+    background: #007bff;
+    color: #fff;
+  }
+  .container{
+    width: 100%;
+  }
+  .container button{
+    margin-left: auto;
+  }
